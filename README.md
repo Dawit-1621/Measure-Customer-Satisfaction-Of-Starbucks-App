@@ -1,4 +1,4 @@
-# Starbucks-Capstone-Challenge
+# Starbucks Capstone Challenge
 
 ## Installation
 **Importing Libraries**</br>
