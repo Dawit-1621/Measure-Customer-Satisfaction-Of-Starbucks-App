@@ -46,7 +46,8 @@ There are 2 different models to be built. Since we are predicting whether an off
 * Decision tree classifier model
 * Random forest classifier model
 
-## Evaluation 
+## Evaluation
 For evaluation and validation for the model; accuracy and f1 score as the model evaluation metric.</br> F1 score provides a better sense of model performance compared to purely accuracy as takes both false positives and false negatives in the calculation. With an uneven class distribution, F1 may usually be more useful than accuracy.
+
 ## Licensing, Authors, Acknowledgements
   I Acknowledge the https://www.starbucks.com/ and https://www.udacity.com. For making the dataset available free for data scientist to exercise on real dataset
