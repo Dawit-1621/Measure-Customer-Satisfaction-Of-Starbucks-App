@@ -11,6 +11,7 @@
 ## Project Motivation
 Interest in the concept of measuring customer satisfaction is growing. More and more companies want to know how satisfied their customers are. Customer satisfaction drives business success and data scientist provides insight into what customers think. This capstone project is using data provided by Udacity as part of the Data Scientist Nanodegree course. It contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. Periodically, Starbucks sends offers to users that may be an advertisement, discount, or buy one get one free (BOGO). An important characteristic regarding this dataset is that not all users receive the same offer.
 The data sets contain three files. The first file describes the characteristics of each offer, including its duration and the amount a customer needs to spend to complete it (difficulty). The second file contains customer demographic data including their age, gender, income, and when they created an account on the Starbucks rewards mobile application. The third file describes customer purchases and when they received, viewed, and completed an offer. An offer is only successful when a customer both views an offer and meets or exceeds its difficulty within the offer's duration.</br> There's also a Medium link with the project summary. https://medium.com/@dawit.hassen/what-is-an-effective-offer-on-the-starbucks-app-3d840bd19b79?sk=d7c5ef3b2e6849018a847d12b2da3d1b
+
 ## Dataset Description 
 The data is contained in three files:
 
