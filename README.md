@@ -19,7 +19,7 @@ The data is contained in three files:
 * profile.json - demographic data for each customer
 * transcript.json - records for transactions, offers received, offers viewed, and offers completed
 
-Here is the schema and explanation of each variable in the files:
+## Here is the schema and explanation of each variable in the files:
 
 **portfolio.json**
 * id (string) - offer id
