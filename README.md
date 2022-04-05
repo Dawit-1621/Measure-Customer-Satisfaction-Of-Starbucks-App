@@ -1,6 +1,6 @@
 # Measure Customer Satisfaction Of Starbucks App
 
-## Installation
+### Installation
 
 **Importing Libraries**</br>
 * numpy
