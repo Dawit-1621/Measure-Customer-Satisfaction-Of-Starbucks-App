@@ -45,6 +45,7 @@ The data is contained in three files:
 
 **Data Visualization**</br>
 * Matplotlib and Seaborn visualization </br>
+
 ### Modeling 
 There are 2 different models to be built. Since we are predicting whether an offer would be effective or not, this is effectively a binary classification supervised learning model. </br>
 1. Decision tree classifier model
